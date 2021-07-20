@@ -1,4 +1,4 @@
-# 
+#Rock, Paper, Scissors says shoot! 
 
 Hello, Welcome to my Rock Paper Scissors Game.
 
